@@ -16,7 +16,7 @@
 #include <Ds1302.h>
 
 
-// DS1302 instancia RTC
+// DS1302 instancia RTC (En la imagen no esta conectado como se referencia aqui, seguir lo que indica este programa)
 //     rtc(RESET,CLK,DAT)
 Ds1302 rtc(16, 14, 12);
 
